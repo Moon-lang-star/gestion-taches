@@ -1,3 +1,3 @@
 def main():
-    print ("version B du programme")
+    print ("version finale A + B du programme")
 
